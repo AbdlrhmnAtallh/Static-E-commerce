@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "e-commerce-com",  // Replace with your Firebase Hosting site name
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
